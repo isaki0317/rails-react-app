@@ -1,1 +1,1 @@
-＃rails-react-app
+# rails-react-app
